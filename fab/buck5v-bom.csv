@@ -1,0 +1,14 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1, C2";"C_1210_3225Metric";2;"10uF 50V X7R";;;
+2;"C3, C4";"C_0603_1608Metric";2;"100nF 50V X7R";;;
+3;"C5, C6";"C_1210_3225Metric";2;"22uF 25V X7R";;;
+4;"C7";"C_0603_1608Metric";1;"75pF C0G DNP";;;
+5;"D1";"D_SMA";1;"SS34";;;
+6;"J1";"TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm";1;"VIN 9-24V";;;
+7;"J2";"TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm";1;"VOUT 5V 2A";;;
+8;"L1";"L_Sunlord_MWSA1004S";1;"15uH MWSA1004S-150MT";;;
+9;"R1";"R_0603_1608Metric";1;"102k 1%";;;
+10;"R2";"R_0603_1608Metric";1;"13.7k 1%";;;
+11;"R4";"R_0603_1608Metric";1;"511k 1%";;;
+12;"R5";"R_0603_1608Metric";1;"105k 1%";;;
+13;"U1";"TSOT-23-6_HandSoldering";1;"TPS54202DDCR";;;

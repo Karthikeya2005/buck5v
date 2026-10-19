@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "buck5v")(type "KiCad")(uri "B:/buck5v/buck5v.kicad_sym")(options "")(descr ""))
+)

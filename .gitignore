@@ -1,0 +1,26 @@
+# KiCad backups, locks and autosaves
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*.bak
+*.lck
+~*
+_autosave-*
+fp-info-cache
+*.kicad_prl
+
+# Local tool folders
+.history/
+.mcp-backups/
+
+# Scratch and one-off reports
+*_drc_violations.json
+drc_report.txt
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
